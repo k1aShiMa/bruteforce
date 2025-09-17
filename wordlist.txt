@@ -1,0 +1,6 @@
+1234
+password
+letmein
+admin
+s3cr3t
+qwerty
